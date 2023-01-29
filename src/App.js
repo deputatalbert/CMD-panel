@@ -19,7 +19,7 @@ const App = () => {
         <Title color = 'green'>Console CMD 2023. INS</Title>
       </Flex>
       <Flex direction = "column">
-        <Console color = {'green'}/>
+        <Console color = {'red'}/>
         <Button outlined color = {'green'} align = 'flex-end'>Отправить</Button>
       </Flex>
       
